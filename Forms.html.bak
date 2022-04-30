@@ -1,0 +1,18 @@
+<html>
+<head>
+<script>
+function valid()
+{
+n = document.getElementbyID("t1").value;
+n = document.getElementbyID("t2").value;
+if(n.search(/^[A-Z][a-z]+$/)==0)
+alert("name is correct")
+}
+</script>
+</head>
+<body>
+<form>
+NAME<input type = "text" id ="t1">
+Roll Number<input type = "text" id = "t2">
+</body>
+</html>

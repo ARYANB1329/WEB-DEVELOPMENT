@@ -1,0 +1,28 @@
+<html>
+<head>
+<script>
+function valid()
+{
+n = document.getElementbyID("t1").value;
+n = document.getElementbyID("t2").value;
+if(n.search(/^[A-Z][a-z]+([A-Z][a-z])*$/)==0)
+alert("name is correct")
+else
+alert("name is not correct")
+}
+if(r.search(/^1219103130(0[1-9][1-5][0-9]|6[0-6]$/)==0)
+alert("number is correct")
+else
+alert("number is not correct")
+</script>
+</head>
+<body>
+<form>
+NAME<input type = "text" id ="t1"><br/>
+Roll Number<input type = "text" id = "t2"><br/>
+<p id = "i2"></p>
+<input type = "button" value = "validate" onclick = "valid()"> 
+<input type = "reset">
+</form>
+</body>
+</html>

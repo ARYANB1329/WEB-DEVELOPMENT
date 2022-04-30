@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ARYA&#10084</title>
+  <h1>ARYA - THE DIARY OF LOVE &#10084</h1>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="one">
+    <h2>HAPPY VALENTINE'S DAY DIYA</h2>
+    <p>Hey Diya,<br> Happy Valentine's Day.<br> A day dedicated to the person who has made my life beautiful since 
+      her arrival from day one. I dont know whether you'll like this small effort from my side but thankyou for being
+      the reason to my happiness. I LOVE YOU my kuchu puchu. Trust me, this will keep happening till the very end of
+      our lives.<br> We both together will make love eternal.
+   </p>
+  </div>
+
+  <div class="gallery1">
+    <img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\IMG-20211119-WA0031.jpg"  width="600" height="400">
+  </div>
+
+  <div class="gallery1">
+    <img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\IMG-20210826-WA0015.jpg"  width="600" height="400">
+  </div>
+
+  <div class="gallery1">
+    <img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\IMG-20211022-WA0013.jpg"  width="600" height="400">
+  </div>
+  
+  <div class="gallery1">
+    <img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\20210717_110249.jpg"  width="600" height="400">
+  </div>
+  
+  <div class="gallery2">
+    <img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\IMG-20210709-WA0000.jpg"  width="700" height="500">
+  </div>
+  
+  <div class="gallery2">
+    <img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\429c5d5d-0ad8-4795-b904-7b8e1aa6d519.jpg"  width="700" height="500">
+  </div>
+  
+  <div class="gallery2">
+    <img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\20210312_144705.jpg"  width="700" height="500">
+  </div>
+  
+  <div class="gallery2">
+    <img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\ebba229d-dc42-4955-bdcf-483ef7cec853.jpg"  width="700" height="700">
+  </div>
+  
+  
+  <div class="two">
+    <p> Ughh man!!! Where did I find you? Look at each and every single moment from the time I met you in real, it's just so beautiful.
+	    I can't even think about leaving you, Yes we fight a thousand times but we love a billion times. You are a blessing in my life Diya, every day, 
+        every minute, every second makes me grateful for being part of your beautiful soul.<br> Our first kiss, our first hug, our first sex makes me surreal 
+        about the fact that How did I even end up dating you? I must have done some good deeds in my past life or am i destined to do some good things just
+        to make you part of my beautiful life everyday.		
+	</p>
+  </div>
+  <div class = "himg">
+    <img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\IMG-20210314-WA0129.jpg" width = "auto" height ="510">
+  </div>
+  <div class = "img2">
+	<img src ="C:\Users\Aryansid\OneDrive\Desktop\PICS\IMG-20210826-WA0021.jpg" width = "auto" height = "470">  
+  </div>
+  
+  <div class="three">
+    <h3> The story behind this idea -</h3>
+    <p> Hey kuchu, I am back. I hope you're liking it, even 10% will make me feel good, beacause I am trying something new for the first time. &#129325 <br> 
+	    Let me tell you the story behind this idea, so Yup I was having the website development lab going on and we were supposed to do the CSS experiment, 
+		while I was doing I remembered the fact that even monish once made a website for his girl, so why not I try something new and moreover you keep 
+		saying I don't do efforts,if I wanted I could have googled some ready-made browser just to put some chessy content, but No I wanted my baby to see the efforts I put on this so 
+        that she does not complain and also if I approach some ready-made website then what's the point of doing it, it's like buying something and gifting it.
+        So, I designed it on my own, it was tough because I never designed a website or created it but it's a small try. I hope you like it thodu saa &#x1f97a,
+		I spent	hours naa isliye... I love you &#10084. Let's look at some videos which you already did at sometime but I think Valentine's day is the best day
+		to remember the beautiful moments we spent once again. Sorry, if I am boring you &#128533.
+	</p>
+  </div>
+  <p class = "great">
+  <video width=500 height= 400  autoplay controls loop muted>
+    <source src= "C:\Users\Aryansid\OneDrive\Desktop\PICS\VID-20210831-WA0048_1.mp4" type="video/mp4">
+  </video>
+  <video width=500 height=400  autoplay controls loop muted>
+    <source src="C:\Users\Aryansid\OneDrive\Desktop\PICS\VID-20210826-WA0026.mp4" type="video/mp4">
+  </video>
+  <video width=500 height=400  autoplay controls loop muted>
+    <source src="C:\Users\Aryansid\OneDrive\Desktop\PICS\VID-20210314-WA0089.mp4" type="video/mp4">
+  </video>
+  <video width=500 height=400  autoplay controls loop muted>
+    <source src="C:\Users\Aryansid\OneDrive\Desktop\PICS\VID_31850830_034857_830.mp4" type="video/mp4">
+  </video>
+  </p>
+  <div class="four">
+    <p> I just love you yaar, I thank your parents for giving birth to you, it's just unbelievable and the day will come where I will take you from
+	   DIYA NANWANI to DIYA ARYAN SIDDHABATHULA.&#128516 Just marry me, trust me, walk with me till the very end. We together will see and cherish each and every moment 
+       of our lives.<br> I know what LOVE is just because of you. For everyday, I miss you. For every hour, I need you. For every minute, I feel you. Forever I love you.
+       I may not be the ideal or the perfect boyfriend you want, but give me time, stay with me, I will end up becoming that dream guy of yours.&#129321
+       The moment I see you, my entire system takes a break just to admire a person like you. You are beautiful both from outside and by heart &#128525, and even in your 80s
+       I will be flirting with you both romantically &#128523 and sexually &#128540. I love you Diya and will always do. Marry me babe.	   
+	</p>
+  </div>
+  <p class="images">
+    <img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\20211109_105845.jpg"  width=auto height="400">
+  </p>
+  <p class = "images">
+	<img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\story_1640879659484.jpg"  width=550 height=auto>
+	<img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\IMG-20201222-WA0014.jpg"  width=550 height=auto>
+  </p>
+  <p class = "images">	
+	<img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\IMG-20211210-WA0022.jpg"  width=auto height="400">
+  </p>
+  <p class = "images"> 
+	<img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\IMG-20220202-WA0019.jpg"  width=auto height="400">
+  </p>
+  <p class = "images">	
+	<img src="C:\Users\Aryansid\OneDrive\Desktop\PICS\IMG-20220202-WA0021.jpg"  width=auto height="400">
+  </p>
+  
+  <h2 class = "last"> <br> I LOVE YOU DIYA.<br> HAPPY VALENTINE'S DAY &#10084 <br> I HOPE YOU LIKED IT. TAKE CARE... &#128536 <br></h2>
+  
+</body>
+</html>

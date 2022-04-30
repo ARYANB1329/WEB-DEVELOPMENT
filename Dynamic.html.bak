@@ -1,0 +1,28 @@
+<html>
+<head>
+<style>
+.m1{position:absolute;z-index:10}
+.m2{position:absolute;top:200;left:200;z-index:0}
+.m3{position:absolute;top:400;left:400;z-index:0}
+</style>
+<script>
+//alert("hi")
+t="im1";
+function totop1(nt)
+{
+//alert("hi in function");
+stold=document.getElementById(t).style;
+stnew=document.getElementById(nt).style;
+stold.zIndex="0";
+stnew.zIndex="10";
+t=nt;
+}
+
+</script>
+</head>
+<body>
+<img class="m1"id="im1"src="web1.jpeg" width="300" height="300" onclick="totop1('im1')"/>
+<img id="im2"class="m2"src="web2.jpeg" width="300" height="300" onclick="totop1('im2')"/>
+<img id="im3"class="m3"src="web3.jpeg" width="300" height="300" onclick="totop1('im3')"/>
+</body>
+</html>

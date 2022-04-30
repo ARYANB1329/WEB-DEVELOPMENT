@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>reg form</title>
+</head>
+<body>
+<h1>my reg form</h1>
+<form name="f1" method="post" action="./formsubmit">
+NAME<input type="text"name="t1"><br/>
+ROLL NUM<input type="text"name="t2"><br/>
+<input type="password"name="pass"><br/>
+SUBJECT: WAD<input type="checkbox"name="s" value="web"><br/>
+	CD<input type="checkbox"name="s"value="comp"><br/>
+	ML<input type="checkbox"name="s"value="ml"><br/>
+	CC<input type="checkbox"name="s"value="cloud"><br/>
+gender: male<input type="radio"name="g"value="m">
+	female<input type="radio"name="g" value="f"><br/>
+<input type="reset" value="reset"/>
+<input type="submit"value="form submit"><br/>
+Branch<select>
+		<option>CSE</option>
+		<option>ECE</option>
+		<option>MECH</option>
+		<option>CIVIL</option>
+</select><br/>
+ADDRESS<textarea></textarea><br/>
+date of birth<input type="email" name="dob"><br/>
+<select name="campus" id="campuslocation" class="browser-default" required="">
+  <optgroup label="Eastern Cape">
+    <option value="31">Umtata / Mthatha</option>
+    <option value="32">Willowmore</option>
+    <option value="33">Willowvale</option>
+  </optgroup>
+  <optgroup label="Free State">
+    <option value="47">Koppies</option>
+    <option value="48">Kroonstad</option>
+  </optgroup>
+</select>
+
+
+
+</form>
+</body>
+</html>

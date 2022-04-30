@@ -1,0 +1,80 @@
+<style type="text/css">
+.k{
+ font-size:25px;
+ font-family:Consolas
+}
+
+.one{
+  font-size:25px;
+  font-family:Consolas;
+  border-bottom:solid;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top:solid;
+}
+
+p.two{
+ font-size:50px;
+ color:black;
+ background-color: Red;
+ font-family:Copperplate;font-variant:small-caps;
+ border-style:solid;
+ margin:0in;
+ padding-left: 1in;
+ padding-right: 1in
+}
+
+p.three{
+ font-size:40px;
+ font-family:verdana;
+ font-variant:small-caps;
+ color:white;background-color:rgb(0, 0, 0);
+ border-style:solid;
+ margin-top:0.30in;
+ padding-left:1in;
+ border-color:red
+}
+
+body {
+  background-color: #DBD0C0;
+  padding-left: 3em 
+}
+
+a{color: #FF0000}
+
+address {
+ margin-top: 1em;
+ padding-top: 1em;
+ border-top: solid 
+}
+
+img {
+ position: absolute;
+  top: 150px;
+  right: 16px;
+  font-size: 18px;
+  width: 250px;
+  height: 100px;
+  padding-right: 30px 
+}
+	  ul.navbar {
+	      list-style-type: none;
+    padding-top: 6in;
+	padding-left: 12in;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 25em }
+	  ul.navbar li {
+    background: #323232;
+    margin: 0.7em;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  a:link {
+    color: white }
+  a:visited {
+    color: yellow }	
+</style>

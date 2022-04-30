@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>FRAMES</title>
+</head>
+<frameset cols="30%,*">
+<frame src="E-BOOK.html">
+	<frameset rows="60%,*">
+		<frame src="REG FORM 29.html" name="top">
+		<frame src="TIMETABLE.html" name="down">
+	</frameset>
+</frameset>
+</html>
